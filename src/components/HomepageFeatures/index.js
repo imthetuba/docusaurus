@@ -42,6 +42,23 @@ const FeatureList = [
       
     ),
   },
+
+  {
+    title: <Translate>Huvudsponsor</Translate>,
+    img: require('@site/static/img/dinner.jpg').default,
+
+    description: (
+    
+    <>
+      <Translate>BCG in Stockholm is a hub for world-class thought 
+        leaders with expertise in consumer industry, digital transformation, 
+        private equity, auto, AI, and climate </Translate>
+        <a href="https://www.bcg.com/offices/stockholm/default"><Translate>BCG</Translate></a> <Translate>.</Translate>
+    </>
+      
+      
+    ),
+  },
 ];
 
 

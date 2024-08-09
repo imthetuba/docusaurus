@@ -1,3 +1,5 @@
+// gammal interaktiv karta över sektionen, används inte i nuläget
+
 import React, { useState, useEffect } from 'react';
 import Layout from '@theme/Layout';
 
